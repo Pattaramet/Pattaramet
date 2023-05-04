@@ -11,11 +11,6 @@
 <a href="https://github.com/TeeraphatCH15224">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=THEJJDEV&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 
-## 📘 ภาษาที่เขียนมากที่สุด
- <a href="https://github.com/TeeraphatCH15224">
-  <img height="111em" src="[![THEJJDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=THEJJDEV)]"/>
-
----
 
 ## 👨‍💻 ภาษาที่ผมสามารถเขียนได้
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
