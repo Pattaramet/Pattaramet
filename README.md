@@ -1,4 +1,4 @@
-#  ยินดีต้อนรับเข้าสู่ Github โปรไฟล์ของ ```THEJJDEV```
+#  ยินดีต้อนรับเข้าสู่ Github โปรไฟล์ของ ```Pattaramet Tumsangthong```
 ---
 ## 🙋‍♂️ ข้อมูลเกี่ยวกับฉัน
 ```
@@ -8,7 +8,7 @@
 ```
 ---
 ## 💻 GitHub Stats
-<a href="https://github.com/TeeraphatCH15224">
+<a href="https://github.com/THEJJDEV">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=THEJJDEV&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 
 
