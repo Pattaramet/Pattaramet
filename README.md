@@ -2,7 +2,7 @@
 ---
 ## 🙋‍♂️ ข้อมูลเกี่ยวกับฉัน
 ```
-ชื่อเล่น : เจเจ
+ชื่อเล่น : JayJay
 อายุ : 13
 เพศ : ชาย
 ```
@@ -17,8 +17,8 @@
 
 ----
 ## 📖 โปรเจคที่ผมกำลังจะทำ
-- Discord Bot Cyanide!
-- Website Pattaramet Portfolio
+- Discord Bot Daisy
+- Make new Portfolio Website
 ---
 
 ## 🌏 คุณสามารถติดตามผมได้ทางนี้
