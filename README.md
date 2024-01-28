@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 👨‍💻 All of my projects are available at [https://jayjay.space](https://jayjay.space)
+- 👨‍💻 All of my projects are available at [https://pattaramet.space](https://pattaramet.space)
 
-- 📫 How to reach me **jayjay@jayjay.space**
+- 📫 How to reach me **contact@pattaramet.space**
 
-- 📄 Know about my experiences [https://jayjay.space](https://jayjay.space)
+- 📄 Know about my experiences [https://pattaramet.space](https://pattaramet.space)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
