@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattaramet&label=Profile%20views&color=0e75b6&style=flat" alt="pattaramet" /> </p>
 
-- 🔭 I’m currently working at [Maki Service Shop](https://maki-service.xyz)
+- 🔭 I’m currently working at [rlss](https://rlss.in.th)
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **nuxtjs**
 
-- 👨‍💻 All of my projects are available at [https://pattaramet.space](https://pattaramet.space)
+- 👨‍💻 All of my projects are available at [https://pattaramet.dev](https://pattaramet.dev)
 
-- 📫 How to reach me **contact@pattaramet.space**
+- 📫 How to reach me **contact@pattaramet.dev**
 
-- 📄 Know about my experiences [https://pattaramet.space](https://pattaramet.space)
+- 📄 Know about my experiences [https://pattaramet.dev](https://pattaramet.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
